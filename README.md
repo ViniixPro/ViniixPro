@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Ventura
+# 🧑🏽‍💻 Vinicius Ventura
 
 **`Desenvolvedora FullStack`**
 
