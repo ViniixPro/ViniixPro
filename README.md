@@ -1,6 +1,6 @@
 # 👨‍💻 Vinicius Ventura
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 
