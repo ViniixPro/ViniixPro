@@ -47,6 +47,10 @@ Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+ 
+ ######
+
+<img src="https://custom-doodle.com/wp-content/uploads/doodle/pac-man-ghosts-running/pac-man-ghosts-running-doodle.gif" alt="Snake animation" />
 
 <br/>
 <br/>
