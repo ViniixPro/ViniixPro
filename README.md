@@ -47,10 +47,20 @@ Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
- 
- ######
 
-<img src="https://custom-doodle.com/wp-content/uploads/doodle/pac-man-ghosts-running/pac-man-ghosts-running-doodle.gif" alt="Snake animation" />
+ ###
+
+ <div align="center">
+  <a href="https://www.youtube.com/@VINII.VENTURA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="www.linkedin.com/in/viniciuss-venturaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 
 <br/>
 <br/>
