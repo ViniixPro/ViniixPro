@@ -63,7 +63,7 @@ Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o ensin
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ItaloGustavoS/ItaloGustavoS/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ViniixPro/ViniixPro/output/snake.svg" alt="Snake animation" />
 
 ###
 
