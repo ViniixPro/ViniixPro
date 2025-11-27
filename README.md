@@ -48,10 +48,8 @@ Olá! Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-##
-
-<div align="center">
- <p>My Social Networks</p>
+#
+## 📱 Redes Sociais
 
  <div align="center">
      
