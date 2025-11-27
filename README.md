@@ -48,11 +48,10 @@ Olá! Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
+##
 
 <div align="center">
-    
- **`My Social Networks`**
+ <p>My Social Networks</p>
 
  <div align="center">
      
@@ -70,7 +69,6 @@ Olá! Me chamo Vinicius, tenho 26 anos e sou natural de Guarulhos/SP. Concluí o
 
 <img src="https://raw.githubusercontent.com/ViniixPro/ViniixPro/output/snake.svg" alt="Snake animation" />
 
-###
 
 <br/>
 <br/>
